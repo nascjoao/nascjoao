@@ -9,6 +9,7 @@ My name is Joao and I'm a brazilian web developer passionate about technologies!
 ![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=E84F1D)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=black&color=EFD81D)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=5ED3F3&color=1E2128)
 ![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=509941)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&color=31648C)
 
