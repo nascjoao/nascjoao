@@ -22,3 +22,10 @@ My name is Joao and I'm a brazilian web developer passionate about technologies!
   <a href="https://dev.to/joaonasc"><img src="https://img.shields.io/badge/DEV.to-blue?logo=dev.to&logoColor=white&color=black"></a>
   <a href="mailto:oi@joaonasc.dev"><img src="https://img.shields.io/badge/Email-oi@joaonasc.dev-white"></a>
 </p>
+
+### Links
+- Instagram: https://instagram.com/nasc.dev
+- LinkedIn: https://linkedin.com/in/nascjoao
+- YouTube: https://youtube.com/nascjoao
+- GitHub: https://github.com/nascjoao
+- Site: https://nasc.dev
